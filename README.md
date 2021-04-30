@@ -1,5 +1,5 @@
 # KELOMPOK7
 Anggota :
-Agus Satria Adhitama (2019-219)
-Rizki Kharisma (2019-230)
-Moch.Hadiyatullah (2019-248)
+1.Agus Satria Adhitama (2019-219)
+2.Rizki Kharisma (2019-230)
+3.Moch.Hadiyatullah (2019-248)
